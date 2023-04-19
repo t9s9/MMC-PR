@@ -10,3 +10,6 @@ This repository contains the code for the practical course "Multimodal Computing
 * **frontend.py**: Small frontend for the annotation module.
 
 Refer to the README.md files in the respective folders for more information.
+
+
+Annotations can be found in: https://hessenbox-a10.rz.uni-frankfurt.de/getlink/fi7LNiTQdiCPnTLfS7kDC9/
